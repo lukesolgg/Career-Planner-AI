@@ -1,11 +1,7 @@
-import React from 'react';
-
-const Header: React.FC = () => {
+export default function Header() {
   return (
-    <header className="bg-blue-500 text-white p-4 mb-4">
-      <h1 className="text-2xl font-bold">Career Planner AI</h1>
+    <header className="w-full text-center mb-6">
+      <h1 className="text-4xl font-bold text-blue-400">Career AI</h1>
     </header>
   );
-};
-
-export default Header;
+}

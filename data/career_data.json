@@ -1,0 +1,59 @@
+{
+    "careers": [
+      {
+        "title": "Software Engineer",
+        "education": "Bachelor's degree in Computer Science or related field",
+        "steps": [
+          "Learn at least one programming language (e.g., Python, JavaScript)",
+          "Build small projects to showcase skills",
+          "Participate in coding bootcamps or online courses",
+          "Get an internship or entry-level position",
+          "Contribute to open-source projects",
+          "Pursue certifications like AWS Certified Developer",
+          "Apply for full-time positions"
+        ]
+      },
+      {
+        "title": "Data Scientist",
+        "education": "Master's degree in Data Science, Statistics, or related field",
+        "steps": [
+          "Acquire strong foundations in statistics and mathematics",
+          "Learn programming languages like Python or R",
+          "Master data manipulation libraries (e.g., pandas, NumPy)",
+          "Gain experience with machine learning frameworks (e.g., scikit-learn, TensorFlow)",
+          "Work on personal or Kaggle data projects",
+          "Seek internships or jobs in data analysis",
+          "Consider advanced degrees or specialized training",
+          "Network at data science conferences or meetups"
+        ]
+      },
+      {
+        "title": "Project Manager",
+        "education": "Bachelor's degree in Business, Management, or related field",
+        "steps": [
+          "Develop skills in leadership, communication, and organization",
+          "Understand project management methodologies (e.g., Agile, Scrum)",
+          "Gain certification like PMP (Project Management Professional)",
+          "Start in a coordinator or assistant PM role",
+          "Manage small projects to build experience",
+          "Learn to use project management software",
+          "Advance to managing larger or more complex projects",
+          "Continue professional development through courses or workshops"
+        ]
+      },
+      {
+        "title": "Graphic Designer",
+        "education": "Bachelor's degree in Graphic Design or Fine Arts",
+        "steps": [
+          "Build a strong portfolio showcasing diverse work",
+          "Master design software (Adobe Creative Suite)",
+          "Understand branding, typography, and color theory",
+          "Freelance or intern to gain practical experience",
+          "Participate in design competitions or hackathons",
+          "Network with other designers and potential clients",
+          "Stay updated with design trends",
+          "Consider specialization in areas like UI/UX design"
+        ]
+      }
+    ]
+  }

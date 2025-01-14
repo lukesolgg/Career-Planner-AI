@@ -1,20 +1,25 @@
-import React from 'react';
 import './globals.css';
-import Footer from './frontend/components/Footer';
+import type { Metadata } from 'next';
+import Header from './frontend/components/Header';
 
-interface LayoutProps {
-  children: React.ReactNode;
-}
+export const metadata: Metadata = {
+  title: 'Career Planner AI',
+  description: 'AI-Driven Career Path Planner',
+};
 
-const RootLayout: React.FC<LayoutProps> = ({ children }) => {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return (
     <html lang="en">
-      <body className="bg-gray-100">
-        {children}
-        <Footer />
+      <body className="bg-black text-white font-mono">
+        <Header />
+        <main className="min-h-screen flex flex-col items-center justify-center px-4 py-6">
+          {children}
+        </main>
       </body>
     </html>
   );
-};
-
-export default RootLayout;
+}
