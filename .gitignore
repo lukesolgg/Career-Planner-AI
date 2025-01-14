@@ -13,6 +13,9 @@
 # testing
 /coverage
 
+#venv for python
+venv/
+
 # next.js
 /.next/
 /out/
